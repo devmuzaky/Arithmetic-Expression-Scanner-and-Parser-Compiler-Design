@@ -1,0 +1,6 @@
+# Shared objects (inc. Windows DLLs)
+*.tab.*
+*.yy.c
+
+# Executables
+*.exe
